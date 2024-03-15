@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-task/static/css/main.0e383943.css",
+    "main.js": "/react-task/static/js/main.4d9d7723.js",
+    "static/js/453.e52305e5.chunk.js": "/react-task/static/js/453.e52305e5.chunk.js",
+    "static/media/image2.jpeg": "/react-task/static/media/image2.115abf459bb25d343500.jpeg",
+    "static/media/image3.jpg": "/react-task/static/media/image3.6ba006850e6163f04000.jpg",
+    "static/media/image4.jpg": "/react-task/static/media/image4.71310bd773b1612a181c.jpg",
+    "static/media/image10.jpg": "/react-task/static/media/image10.5292252de01beec2f112.jpg",
+    "static/media/image8.jpg": "/react-task/static/media/image8.95bf3ca0b3ada65c1352.jpg",
+    "static/media/image7.jpg": "/react-task/static/media/image7.19f7425bd9eb18645bdd.jpg",
+    "static/media/image9.jpeg": "/react-task/static/media/image9.7d76298a737bc5ac6d3d.jpeg",
+    "static/media/image5.jpeg": "/react-task/static/media/image5.36e9b4816fd901678eaa.jpeg",
+    "static/media/image1.jpeg": "/react-task/static/media/image1.38de176faa206f94e1ab.jpeg",
+    "static/media/image6.jpeg": "/react-task/static/media/image6.480a447e1c15257fbb00.jpeg",
+    "static/media/image11.jpeg": "/react-task/static/media/image11.949a6595ecfffbd0d017.jpeg",
+    "index.html": "/react-task/index.html",
+    "main.0e383943.css.map": "/react-task/static/css/main.0e383943.css.map",
+    "main.4d9d7723.js.map": "/react-task/static/js/main.4d9d7723.js.map",
+    "453.e52305e5.chunk.js.map": "/react-task/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e383943.css",
+    "static/js/main.4d9d7723.js"
+  ]
+}
