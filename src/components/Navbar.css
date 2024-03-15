@@ -71,9 +71,9 @@ nav ul li a:hover{
   margin: 0;
   padding: 0;
   border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); */
   z-index: 1;
-  top: calc(100% + 25px); /* Position below the colored area */
+  top: calc(100% + 0px); /* Position below the colored area */
   left: -50%;
 }
 
@@ -86,27 +86,22 @@ nav ul li a:hover{
 
 .sub-menu li:hover {
   background-color: rgba(255, 255, 255, 0.8);
-  color: black; /* Change text color to ensure visibility */
+  color: black; 
   transition: background-color linear 2s;
 }
 
 .sub-menu li:hover a {
-  color: black; /* Change anchor text color to black on hover */
+  color: black; 
 }
 
 .more:hover .sub-menu {
   display: block;
 }
 
-/* Adjust the width of the submenu container */
-.sub-menu {
-  min-width: 100%; /* Set minimum width to 100% of the parent */
-  width: max-content; /* Set width to fit content */
-}
-
 .more {
   position: relative;
   color: #fff;
+  cursor: pointer;
 }
 
 .more:hover > span {

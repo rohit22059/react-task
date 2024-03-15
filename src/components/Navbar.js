@@ -74,11 +74,12 @@ export default function Navbar() {
     setSearchContainerWidth(`${widthPercentage}%`);
   };
 
-  
   useEffect(() => {
     window.addEventListener('resize', updateWindowWidth);
+
     return () => {
       window.removeEventListener('resize', updateWindowWidth);
+
     };
   }, []);
 
